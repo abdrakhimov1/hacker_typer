@@ -1,0 +1,3 @@
+/home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer/cmake-build-debug/CMakeFiles/hacker_typer.dir

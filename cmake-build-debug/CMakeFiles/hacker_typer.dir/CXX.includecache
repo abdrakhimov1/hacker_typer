@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+
