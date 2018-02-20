@@ -11,7 +11,7 @@
     unsigned char read_into_buf(unsigned char buff[]){ //FIXIT buf_size
 
 
-        std::fstream in("/home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer/animate.txt");
+        std::fstream in("animate.txt");
 
         for (short i=0; i < 32000; i++) {
 

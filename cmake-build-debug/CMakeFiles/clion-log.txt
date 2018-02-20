@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 CMakeLists.txt not found in /home/denis/GIT/zloydanny_hacker_typer/hacker_typer
+=======
+CMakeLists.txt not found in /home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer
+>>>>>>> origin/master
