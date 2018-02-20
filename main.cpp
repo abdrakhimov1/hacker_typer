@@ -5,6 +5,7 @@
 #include "read_into_buf.h"
 #include "text_drawing.h"
 #include "text_drawing.h"
+#include "text_counter.h"
 
 
 unsigned char buf[32000];

@@ -1,4 +1,1 @@
-/home/ruby/Documents/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer
--- Configuring done
--- Generating done
--- Build files have been written to: /home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer/cmake-build-debug
+CMakeLists.txt not found in /home/denis/GIT/zloydanny_hacker_typer/hacker_typer
