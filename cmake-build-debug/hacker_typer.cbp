@@ -87,6 +87,15 @@
 		<Unit filename="/home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer/main.cpp">
 			<Option target="hacker_typer"/>
 		</Unit>
+		<Unit filename="/home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer/read_into_buf.h">
+			<Option target="hacker_typer"/>
+		</Unit>
+		<Unit filename="/home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer/text_drawing.h">
+			<Option target="hacker_typer"/>
+		</Unit>
+		<Unit filename="/home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer/wind_create.h">
+			<Option target="hacker_typer"/>
+		</Unit>
 		<Unit filename="/home/ruby/Documents/MIPT/INFA/MIPT-cpp/hacker_typer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
