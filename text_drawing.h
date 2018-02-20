@@ -1,0 +1,8 @@
+//
+// Created by ruby on 20.02.18.
+//
+
+#ifndef HACKER_TYPER_TEXT_DRAWING_H
+#define HACKER_TYPER_TEXT_DRAWING_H
+
+#endif //HACKER_TYPER_TEXT_DRAWING_H
