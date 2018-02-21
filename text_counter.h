@@ -1,7 +1,7 @@
 //
 // Created by denis on 20.02.18.
 //
-#include <iostream>
+
 #include <string>
 #include <fstream>
 
@@ -11,8 +11,8 @@
 unsigned text_counter(ifstream file)
 {
     ifstream file;
-    string str;
-    string adress;
+    std::string str;
+    std::string adress;
     unsigned counter = 0;
 
     getline(std::cin, adress);
