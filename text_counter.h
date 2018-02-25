@@ -1,28 +1,20 @@
 //
 // Created by denis on 20.02.18.
 //
-#include <iostream>
-#include <string>
+
 #include <fstream>
 
 #ifndef HACKER_TYPER_TEXT_COUNTER_H_H
 #define HACKER_TYPER_TEXT_COUNTER_H_H
 
-unsigned text_counter(std::string adress)
+unsigned text_counter(std::fstream file)
 {
-    std::ifstream file (""); //FIXIT
-    std::string str;
-    //std::string adress;
-    unsigned counter = 0;
 
-    //file.open(adress);
+    unsigned count = 0;
 
-    counter = str.size();
+    count = file.gcount();
 
-    file.close();
-
-    return counter;
-
+    return count;
 }
 
 
